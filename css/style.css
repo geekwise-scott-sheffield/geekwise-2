@@ -14,3 +14,7 @@ body{
   text-align: center;
   color: steelBlue;
 }
+#page_text{
+  text-align: center;
+  /*color: green;*/
+}
